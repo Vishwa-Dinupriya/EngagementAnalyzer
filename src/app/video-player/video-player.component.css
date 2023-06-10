@@ -1,0 +1,21 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+  }
+
+  /* CSS for the body content */
+  /* .content {
+    padding: 20px;
+  } */
+
+  /* CSS for the sticky footer */
+  .footer {
+    position: sticky;
+    bottom: 0;
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+  }
